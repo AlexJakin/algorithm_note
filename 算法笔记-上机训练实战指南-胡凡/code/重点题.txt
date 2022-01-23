@@ -1,0 +1,6 @@
+第三章
+	A1042. Shuffling Machine(洗牌机) 3_9.cpp
+	
+	A1046. Shortest Distance (求导) 3_10.cpp
+	
+	B1025 打印沙漏 #3_23

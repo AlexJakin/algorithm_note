@@ -1,0 +1,11 @@
+input:
+27 2
+output:
+Yes
+1 1 0 1 1
+
+intput:
+121 5
+output:
+No
+4 4 1
