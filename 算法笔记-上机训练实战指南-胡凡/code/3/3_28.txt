@@ -1,0 +1,4 @@
+Sample Input
+15 43 71
+Sample Output
+#123456
