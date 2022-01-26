@@ -1,0 +1,10 @@
+输入样例：
+
+3485djDkxh4hhGE
+2984akDfkkkkggEdsb
+s&hgsfdk
+d&Hyscvnm
+
+输出样例：
+
+THU 14:04

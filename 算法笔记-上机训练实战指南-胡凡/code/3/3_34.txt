@@ -1,0 +1,4 @@
+输入样例：
+Hello World Here I Come
+输出样例：
+Come I Here World Hello

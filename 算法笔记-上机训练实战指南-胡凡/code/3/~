@@ -1,1 +1,7 @@
- 
+//A1001 A+B Format
+#include <stdio.h>
+
+int main(){
+	
+	return 0;
+}

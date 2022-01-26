@@ -4,3 +4,7 @@
 	A1046. Shortest Distance (求导) 3_10.cpp
 	
 	B1025 打印沙漏 #3_23
+	
+	B1024 科学计数法 
+	
+	A1035 Password

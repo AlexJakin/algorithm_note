@@ -1,0 +1,33 @@
+输入用例1:
+
+3
+Team000002 Rlsp0dfa
+Team000003 perfectpwd
+Team000001 R1spOdfa
+
+
+输出用例1:
+
+2
+Team000002 RLsp%dfa
+Team000001 R@spodfa
+
+
+输入用例2
+
+1
+team110 abcdefg332
+
+
+
+输出用例2
+There is 1 account and no account is modified
+
+输入用例3
+2
+team110 abcdefg222
+team220 abcdefg333
+
+
+输出用例3
+There are 2 accounts and no account is modified
