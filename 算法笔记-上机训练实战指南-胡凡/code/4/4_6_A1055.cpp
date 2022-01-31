@@ -55,6 +55,5 @@ int main(){
 		}
 		if(printNum == 0) printf("None\n");
 	}
-	
 	return 0;
 }
