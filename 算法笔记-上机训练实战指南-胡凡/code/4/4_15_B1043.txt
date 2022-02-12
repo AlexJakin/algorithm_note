@@ -1,0 +1,4 @@
+输入样例：
+redlesPayBestPATTopTeePHPereatitAPPT
+输出样例：
+PATestPATestPTetPTePePee

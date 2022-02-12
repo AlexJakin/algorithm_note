@@ -13,5 +13,16 @@
 	
 	A1082 Read Number in chinese
 
-第四章 
+第四章
+	排序 
+	A1080 Graduate admission
 	
+	散列
+	B1005 继续(3n+1)猜想 4_19.cpp
+	
+	贪心
+	A1067 Sort with swap(0,*)
+	
+	二分
+	A1010 Radix
+	A1044 Shooping in Mars

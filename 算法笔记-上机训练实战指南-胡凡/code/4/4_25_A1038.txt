@@ -1,0 +1,5 @@
+Sample Input:
+5 32 321 3214 0229 87
+
+Sample Output:
+22932132143287

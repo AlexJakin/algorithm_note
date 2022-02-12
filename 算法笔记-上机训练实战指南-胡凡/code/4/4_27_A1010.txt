@@ -1,0 +1,11 @@
+input:
+6 110 1 10
+
+output:
+2
+
+intput:
+1 ab 1 2
+
+output:
+Impossible

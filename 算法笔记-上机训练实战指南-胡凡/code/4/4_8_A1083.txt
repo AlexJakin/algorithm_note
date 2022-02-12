@@ -1,0 +1,21 @@
+Sample Input 1:
+4
+Tom CS000001 59
+Joe Math990112 89
+Mike CS991301 100
+Mary EE990830 95
+60 100
+
+Sample Output 1:
+Mike CS991301
+Mary EE990830
+Joe Math990112
+
+Sample Input 2:
+2
+Jean AA980920 60
+Ann CS01 80
+90 95
+
+Sample Output 2:
+NONE
