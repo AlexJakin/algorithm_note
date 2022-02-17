@@ -1,0 +1,4 @@
+Sample Input:
+12
+Sample Output:
+5

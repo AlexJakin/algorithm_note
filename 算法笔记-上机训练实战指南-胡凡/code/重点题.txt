@@ -15,14 +15,21 @@
 
 第四章
 	排序 
-	A1080 Graduate admission
+		A1080 Graduate admission
 	
 	散列
-	B1005 继续(3n+1)猜想 4_19.cpp
+		B1005 继续(3n+1)猜想 4_19.cpp
 	
 	贪心
-	A1067 Sort with swap(0,*)
+		A1067 Sort with swap(0,*)
 	
 	二分
-	A1010 Radix
-	A1044 Shooping in Mars
+		A1010 Radix
+		A1044 Shooping in Mars
+	
+第五章
+	5.2 最大公约数与最小公倍数 
+		B1008 数组元素循环右移问题
+	5.3 分数四则运算
+		A1081 Rational Sum
+		
