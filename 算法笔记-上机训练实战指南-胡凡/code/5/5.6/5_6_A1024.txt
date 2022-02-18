@@ -1,0 +1,10 @@
+Sample Input 1:
+67 3
+Sample Output 1:
+484
+2
+Sample Input 2:
+69 3
+Sample Output 2:
+1353
+3

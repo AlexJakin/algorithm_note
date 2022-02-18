@@ -1,0 +1,6 @@
+Sample Input:
+1234567899
+
+Sample Output:
+Yes
+2469135798
